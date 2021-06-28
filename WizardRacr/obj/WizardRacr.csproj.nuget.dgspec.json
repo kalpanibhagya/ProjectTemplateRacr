@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\ProjectTemplateRacr\\WizardRacr\\WizardRacr.csproj": {}
+  },
+  "projects": {
+    "D:\\Work\\ProjectTemplateRacr\\ProjectTemplateRacr.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Work\\ProjectTemplateRacr\\ProjectTemplateRacr.csproj",
+        "projectName": "ProjectTemplateRacr",
+        "projectPath": "D:\\Work\\ProjectTemplateRacr\\ProjectTemplateRacr.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Work\\ProjectTemplateRacr\\WizardRacr\\WizardRacr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\ProjectTemplateRacr\\WizardRacr\\WizardRacr.csproj",
+        "projectName": "WizardRacr",
+        "projectPath": "D:\\Work\\ProjectTemplateRacr\\WizardRacr\\WizardRacr.csproj",
+        "packagesPath": "C:\\Users\\KalpaniR\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\ProjectTemplateRacr\\WizardRacr\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\KalpaniR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Work\\ProjectTemplateRacr\\ProjectTemplateRacr.csproj": {
+                "projectPath": "D:\\Work\\ProjectTemplateRacr\\ProjectTemplateRacr.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.10.1055, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.206, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

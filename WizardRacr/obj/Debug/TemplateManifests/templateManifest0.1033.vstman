@@ -1,0 +1,21 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\ProjectTemplateRacr</RelativePathOnDisk>
+    <TemplateFileName>ProjectTemplateRacr.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>ProjectTemplateRacr</Name>
+        <Description>ProjectTemplateRacr</Description>
+        <Icon>ProjectTemplateRacr.ico</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <LanguageTag>csharp</LanguageTag>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>120c4c00-ba6c-4ac9-acd8-f5862a56c63f</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>ProjectTemplateRacr</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

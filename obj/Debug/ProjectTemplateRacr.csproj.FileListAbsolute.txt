@@ -1,0 +1,8 @@
+D:\Work\ProjectTemplateRacr\bin\Debug\ProjectTemplates\CSharp\1033\ProjectTemplateRacr.zip
+D:\Work\ProjectTemplateRacr\obj\Debug\_EmptyResource.resources
+D:\Work\ProjectTemplateRacr\obj\Debug\ProjectTemplateRacr.csproj.GenerateResource.cache
+D:\Work\ProjectTemplateRacr\obj\Debug\ProjectTemplateRacr.csproj.CoreCompileInputs.cache
+D:\Work\ProjectTemplateRacr\obj\Debug\CSharp\1033\ProjectTemplateRacr.zip
+D:\Work\ProjectTemplateRacr\obj\Debug\ProjectTemplateRacr.dll
+D:\Work\ProjectTemplateRacr\obj\Debug\ProjectTemplateRacr.pdb
+D:\Work\ProjectTemplateRacr\obj\Debug\ProjectTemplateRacr.csproj.AssemblyReference.cache
